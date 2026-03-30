@@ -1,1 +1,3 @@
 testovací soubor 01
+
+Tester02 added this line.
